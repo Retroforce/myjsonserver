@@ -13,10 +13,4 @@
 }, {
 	"user": "Dick",
 	"password": "pass123"
-}, {
-	"user": "Harry",
-	"password": "pass123"
-}, {
-	"user": "Bob",
-	"password": "pass123"
 }]
