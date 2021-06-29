@@ -2,31 +2,37 @@
 	"users": [{
 			"id": 1,
 			"user": "John",
+			"email": "john@myserver.com",
 			"password": "pass123"
 		},
 		{
 			"id": 2,
 			"user": "Liam",
+			"email": "liam@myserver.com",
 			"password": "pass123"
 		},
 		{
 			"id": 3,
 			"user": "Craig",
+			"email": "craig@myserver.com",
 			"password": "pass123"
 		},
 		{
 			"id": 4,
 			"user": "Tom",
+			"email": "tom@myserver.com",
 			"password": "pass123"
 		},
 		{
 			"id": 5,
 			"user": "Dick",
+			"email": "dick@myserver.com",
 			"password": "pass123"
 		},
 		{
 			"id": 6,
 			"user": "Harry",
+			"email": "harry@myserver.com",
 			"password": "pass123"
 		}
 	],
